@@ -18,9 +18,7 @@ st.image(Picture, use_column_width=True)
 ###Writing a header about the web program###
 st.write("""
 ***
-
 # NetDNA-1.0
-
 This is a web-based tool that uses the query DNA sequence to generate basic biological data:
 \n- Length of the Sequence
 \n- Count of Non-bases(if any)
@@ -30,7 +28,6 @@ This is a web-based tool that uses the query DNA sequence to generate basic biol
 \n- Reverse Complement
 \n- Transcribed Sequence
 \n- Translated Sequence
-
 ***
 """)
 
