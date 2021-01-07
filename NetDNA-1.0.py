@@ -50,6 +50,9 @@ st.write("""
 ###Converting the data to Upper case###
 DNA_Sequence = DNA_Sequence.upper()
 
+###Removing All White Spaces###
+DNA_Sequence = ''.join(DNA_Sequence.split())
+
 ###Displaying unknown characters(i.e any character other than 'A|T|G|C') in the query sequence###
 for a in range(len(DNA_Sequence)):
     if DNA_Sequence[a] not in 'ATGC':
@@ -65,8 +68,6 @@ DNA_Sequence
 st.write("""
 ***
 """)
-###Removing All White Spaces###
-DNA_Sequence = ''.join(DNA_Sequence.split())
 
 ###Displaying the Results###
 st.header("--**RESULTS**--")
