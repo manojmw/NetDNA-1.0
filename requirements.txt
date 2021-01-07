@@ -1,0 +1,5 @@
+altair==4.1.0
+streamlit==0.73.1
+pandas==1.2.0
+Bio==0.2.4
+Pillow==8.1.0
