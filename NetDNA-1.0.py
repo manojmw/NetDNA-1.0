@@ -52,7 +52,6 @@ DNA_Sequence = ''.join(DNA_Sequence.split())
 
 ###Displaying unknown characters(i.e any character other than 'A|T|G|C') in the query sequence###
 for a in range(len(DNA_Sequence)):
-    a = a+1
     if DNA_Sequence[a] not in 'ATGC':
         st.write("**WARNING**: Your DNA sequence contains unknown character '**%s**' at position %d\n" % (DNA_Sequence[a],a))
 
