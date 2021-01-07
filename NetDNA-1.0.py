@@ -47,6 +47,9 @@ st.write("""
 ***
 """)
 
+###Converting the data to Upper case###
+DNA_Sequence = DNA_Sequence.upper()
+
 ###Displaying unknown characters(i.e any character other than 'A|T|G|C') in the query sequence###
 for a in range(len(DNA_Sequence)):
     if DNA_Sequence[a] not in 'ATGC':
@@ -56,8 +59,6 @@ st.write("""
 ***
 """)
 
-###Converting the data to Upper case###
-DNA_Sequence = DNA_Sequence.upper()
 st.header("This is your DNA sequence:")
 DNA_Sequence
 
