@@ -8,7 +8,6 @@ import pandas as pd
 import altair as alt
 from PIL import Image
 from Bio.Seq import Seq
- st.balloons()
 
 ###Creating a Page title, logo and information about the web application###
 Picture  = Image.open('DNA.jpeg')
