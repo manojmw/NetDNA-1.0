@@ -47,6 +47,15 @@ st.write("""
 ***
 """)
 
+###Displaying unknown characters(i.e any character other than 'A|T|G|C') in the query sequence###
+for a in range(len(DNA_Sequence)):
+    if DNA_Sequence[a] not in 'ATGC':
+        st.write("**WARNING**: Your DNA sequence contains unknown character '**%s**' at position %d\n" % (DNA_Sequence[a],a))
+
+st.write("""
+***
+""")
+
 ###Converting the data to Upper case###
 DNA_Sequence = DNA_Sequence.upper()
 st.header("This is your DNA sequence:")
@@ -180,4 +189,5 @@ st.write("""
 AA_Code  = Image.open('AA-Codes.jpeg')
 st.image(AA_Code, use_column_width=True)
 st.write("(* or asterisk) = 'Stop codon' or 'Termination codon' ")
+
 ###END###
