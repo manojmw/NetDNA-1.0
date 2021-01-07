@@ -10,9 +10,7 @@ from PIL import Image
 from Bio.Seq import Seq
 
 ###Creating a Page title, logo and information about the web application###
-Picture  = Image.open('
-
-')
+Picture  = Image.open('DNA.jpeg')
 
 ####Displaying and Extending the image along the column width###
 st.image(Picture, use_column_width=True)
@@ -179,9 +177,7 @@ st.write("""
 """)
 
 ###Displaying the Amino acid codes###
-AA_Code  = Image.open('
-
-')
+AA_Code  = Image.open('AA-Codes.jpeg')
 st.image(AA_Code, use_column_width=True)
 st.write("(* or asterisk) = 'Stop codon' or 'Termination codon' ")
 ###END###
