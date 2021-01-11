@@ -146,13 +146,15 @@ if (length_DNA<14):
           Tm_less = (DNA_Sequence.count('A') + DNA_Sequence.count('T'))*2 + (DNA_Sequence.count('C') + DNA_Sequence.count('G')) * 4
       except:
           Tm_less = 0
-      st.write("-The Melting Temperature(Tm) of the given DNA sequence: %5.2f%" % Tm_less, "°C")
+      st.write("-The Melting Temperature(Tm) of the given DNA sequence: %5.2f%" % Tm_less)
+      st.write("°C")
 else:
       try:
           Tm_more = 64.9 +41*(DNA_Sequence.count('G')+DNA_Sequence.count('C')-16.4)/(DNA_Sequence.count('A')+DNA_Sequence.count('T')+DNA_Sequence.count('G')+DNA_Sequence.count('C'))
       except:
           Tm_more = 0
-      st.write("-The Melting Temperature(Tm) of the given DNA sequence: %5.2f%" % Tm_more,"°C")
+      st.write("-The Melting Temperature(Tm) of the given DNA sequence: %5.2f%" % Tm_more)
+      st.write("°C")
 
 st.write("""
 ***
