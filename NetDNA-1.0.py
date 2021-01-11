@@ -103,8 +103,8 @@ st.write("""
 
 ###Creating a dataframe of the Nucleotide base count for Graphical visualization###
 data = {
-        'Nucleotide Base':  ['A', 'T', 'G', 'C'],
-        'Count': [DNA_Sequence.count('A'), DNA_Sequence.count('T'), DNA_Sequence.count('G'), DNA_Sequence.count('C')]
+            'Nucleotide Base':  ['A', 'T', 'G', 'C'],
+            'Count': [DNA_Sequence.count('A'), DNA_Sequence.count('T'), DNA_Sequence.count('G'), DNA_Sequence.count('C')]
         }
 df = pd.DataFrame (data, columns = ['Nucleotide Base','Count'])
 
@@ -147,7 +147,6 @@ if (length_DNA<14):
       except:
           Tm_less = 0
       st.write("-The Melting Temperature(Tm) of the given DNA sequence: ", Tm_less, "°C")
-      st.write("°C")
 else:
       try:
           Tm_more = 64.9 +41*(DNA_Sequence.count('G')+DNA_Sequence.count('C')-16.4)/(DNA_Sequence.count('A')+DNA_Sequence.count('T')+DNA_Sequence.count('G')+DNA_Sequence.count('C'))
