@@ -128,7 +128,7 @@ C_count = DNA_Sequence.count('C') ####Counting Cytosine###
 G_count = DNA_Sequence.count('G') ####Counting Guanine###
 
 try:
-    GC_content = (C_count+G_count)/length_DNA*100
+    GC_content = (C_count+G_count)/(length_DNA-Non_Bases)*100
 except:
     GC_content = 0
 
