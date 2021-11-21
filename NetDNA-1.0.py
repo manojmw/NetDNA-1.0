@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-####This is a python script for a web-based tool - NetDNA-1.0, that will generate useful biological data from the query DNA sequence#####
+####This is a python script for a web-based tool - NetDNA-1.0, that will generate basic biological data from the query DNA sequence#####
 
 ####Importing Libraries and python modules####
 import streamlit as st
