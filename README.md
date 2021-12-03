@@ -29,8 +29,8 @@ This is a basic python script for the web-based tool (I call it NetDNA-1.0). It 
 <img src="https://user-images.githubusercontent.com/74168582/144681464-a0fb438e-3e22-42d6-8003-209dd6e0a6f7.png" width="900" height="400">
 
 <br/><br/>
-<hr/>
-<img width="1441" alt="image" src="https://user-images.githubusercontent.com/74168582/144681902-14c4540e-fada-4b5c-a716-26d06a9d4bf3.png" width="900" height="400">
+
+<img src="https://user-images.githubusercontent.com/74168582/144681902-14c4540e-fada-4b5c-a716-26d06a9d4bf3.png" width="900" height="400">
 
 
 
