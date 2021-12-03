@@ -18,7 +18,7 @@ This is a basic python script for the web-based tool (I call it NetDNA-1.0). It 
  - Translated Sequence
 <br/><br/>
 
-## Below figure shows an example of random DNA sequence (length = 1000 bp) as input in the text box
+### Below figure shows an example of random DNA sequence (length = 1000 bp) as input in the text box
 
 <p align = "center">
   <img src = "https://user-images.githubusercontent.com/74168582/144680572-3b5c2059-12bf-4810-aab5-583d285be716.png" width="400" height="250">
