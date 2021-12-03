@@ -26,6 +26,6 @@ This is a basic python script for the web-based tool (I call it NetDNA-1.0). It 
 
 ## Output of the tool
 
-<img src="https://user-images.githubusercontent.com/74168582/144681464-a0fb438e-3e22-42d6-8003-209dd6e0a6f7.png" width="450" height="300">
+<img src="https://user-images.githubusercontent.com/74168582/144681464-a0fb438e-3e22-42d6-8003-209dd6e0a6f7.png" width="700" height="400">
 
 
