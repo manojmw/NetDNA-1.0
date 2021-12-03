@@ -5,7 +5,7 @@ This is a basic python script for the web-based tool (I call it NetDNA-1.0). It 
   <img src = "https://user-images.githubusercontent.com/74168582/144679110-785d104f-2806-4708-91c1-2d8019f9ddcd.jpeg" width="600" height="350">
 </p>
 
-<br/><br/>18
+<br/><br/>
 
 ## Following details are obtained from the query DNA sequence:
  - Length of the Sequence
@@ -18,7 +18,7 @@ This is a basic python script for the web-based tool (I call it NetDNA-1.0). It 
  - Translated Sequence
 <br/><br/>
 
-### Below figure shows an example of random DNA sequence (length = 1000 bp) as input in the text box</b>
+-> Below figure shows an example of random DNA sequence (length = 1000 bp) as input in the text box</b>
 
 <img src = "https://user-images.githubusercontent.com/74168582/144680572-3b5c2059-12bf-4810-aab5-583d285be716.png" width="450" height="300">
 
