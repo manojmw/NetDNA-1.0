@@ -12,7 +12,7 @@ This is a basic python script for the web-based tool (I call it NetDNA-1.0). It 
  - Count of Non-bases(if any)
  - Nucleotide Base-Count & its visualization
  - GC Content(%)
- - Melting Temperature(Tm)
+ - Melting Temperature(Tm) - this is just an example, because Tm is usually calculated for primers (typically 18 to 24 base pairs) and not the whole DNA sequence
  - Reverse Complement
  - Transcribed Sequence
  - Translated Sequence
