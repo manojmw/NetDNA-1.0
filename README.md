@@ -17,7 +17,7 @@ This is a basic python script for the web-based tool (I call it NetDNA-1.0). It 
  - Transcribed Sequence
  - Translated Sequence
 
-**Note:** Calculation of Melting Temperature(Tm) is just an example, because Tm is usually calculated for primers (typically 18-30 bp in length) and not the whole DNA sequence.
+**Note:** Calculation of Melting Temperature(Tm) is just an example, because Tm is usually calculated for primers (typically 18-30 bp in length) and not the whole DNA sequence as in the below example.
 <br/><br/>
 
 ## Configuration and running the script
