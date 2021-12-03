@@ -18,6 +18,14 @@ This is a basic python script for the web-based tool (I call it NetDNA-1.0). It 
  - Translated Sequence
 <br/><br/>
 
+## Configuration and running the script
+Please refer to the following guide - [Streamlit Documentation](https://docs.streamlit.io/library/get-started/installation) to configure **Streamlit**
+<br/>
+Once streamlit is configured, you can the script using the below command:
+> streamlit run NetDNA-1.0.py
+<br/>
+This will open the tool in the browser as web-based tool..
+
 ## Below figure shows an example of random DNA sequence (length = 1000 bp) as input in the text box</b>
 
 <img src = "https://user-images.githubusercontent.com/74168582/144680572-3b5c2059-12bf-4810-aab5-583d285be716.png" width="450" height="300">
