@@ -26,10 +26,10 @@ Please refer to the following guide - [Streamlit Documentation](https://docs.str
 Once streamlit is configured, you can the script using the below command:
 > streamlit run NetDNA-1.0.py
 <br/>
-This will open the tool in the browser as web-based tool..
 
-<br/>
-<br/>
+This will open the tool in the browser as web-based tool!
+
+<br/><br/><br/>
 
 ## Below figure shows an example of random DNA sequence (length = 1000 bp) as input in the text box</b>
 
