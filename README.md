@@ -20,7 +20,9 @@ This is a basic python script for the web-based tool (I call it NetDNA-1.0). It 
 
 ## Configuration and running the script
 Please refer to the following guide - [Streamlit Documentation](https://docs.streamlit.io/library/get-started/installation) to configure **Streamlit**
+
 <br/>
+
 Once streamlit is configured, you can the script using the below command:
 > streamlit run NetDNA-1.0.py
 <br/>
