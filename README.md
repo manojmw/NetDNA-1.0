@@ -3,7 +3,7 @@ This is a basic python script for the web-based tool (I call it NetDNA-1.0). It 
 
 <p align = "center">
   <img src = "https://user-images.githubusercontent.com/74168582/144679110-785d104f-2806-4708-91c1-2d8019f9ddcd.jpeg" width="600" height="350">
-</P
+</p>
 
 <br/><br/>
 
@@ -16,3 +16,10 @@ This is a basic python script for the web-based tool (I call it NetDNA-1.0). It 
  - Reverse Complement
  - Transcribed Sequence
  - Translated Sequence
+<br/><br/>
+
+## Below figure shows an example of random DNA sequence (length = 1000 bp) as input in the text box
+
+<p align = "center">
+  <img src = "https://user-images.githubusercontent.com/74168582/144680572-3b5c2059-12bf-4810-aab5-583d285be716.png" width="400" height="250">
+</p>
