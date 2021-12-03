@@ -28,6 +28,9 @@ Once streamlit is configured, you can the script using the below command:
 <br/>
 This will open the tool in the browser as web-based tool..
 
+<br/>
+<br/>
+
 ## Below figure shows an example of random DNA sequence (length = 1000 bp) as input in the text box</b>
 
 <img src = "https://user-images.githubusercontent.com/74168582/144680572-3b5c2059-12bf-4810-aab5-583d285be716.png" width="450" height="300">
