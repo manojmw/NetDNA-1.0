@@ -27,7 +27,7 @@ Once streamlit is configured, you can the script using the below command:
 > streamlit run NetDNA-1.0.py
 <br/>
 
-This will open the tool in the browser as web-based tool!
+This will open the tool in the browser as a web-based tool!
 
 <br/><br/>
 
@@ -43,6 +43,3 @@ This will open the tool in the browser as web-based tool!
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74168582/144681902-14c4540e-fada-4b5c-a716-26d06a9d4bf3.png" width="950" height="375">
-
-
-
