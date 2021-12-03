@@ -19,12 +19,12 @@ This is a basic python script for the web-based tool (I call it NetDNA-1.0). It 
 <br/><br/>
 
 ## Configuration and running the script
-Please refer to the following guide - [Streamlit Documentation](https://docs.streamlit.io/library/get-started/installation) to configure **Streamlit**
+Please refer to the following guide - [Streamlit Documentation](https://docs.streamlit.io/library/get-started/installation) to configure **Streamlit**.
 
 <br/>
 
 Once streamlit is configured, you can the script using the below command:
-> streamlit run NetDNA-1.0.py
+      > streamlit run NetDNA-1.0.py
 <br/>
 
 This will open the tool in the browser as web-based tool!
