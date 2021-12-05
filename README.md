@@ -26,7 +26,9 @@ Please refer to the following guide - [Streamlit Documentation](https://docs.str
 <br/>
 
 Once streamlit is configured, download the above files and place it in a directory.
+
 <br/>
+
 Go to the above directory and run the script using the below command:
 > streamlit run NetDNA-1.0.py
 <br/>
