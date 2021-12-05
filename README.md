@@ -35,7 +35,7 @@ Go to the above directory and run the script using the below command:
 
 This will open the tool in the browser as a web-based tool!
 
-<br/><br/>
+<br/>
 
 ## Below figure shows an example of random DNA sequence (length = 1000 bp) as an input to the tool</b>
 
