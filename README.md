@@ -29,7 +29,7 @@ Once streamlit is configured, download the above files and place it in a directo
 
 <br/>
 
-Go to the above directory and run the script using the below command:
+Go to the above directory and run the script using the command:
 > streamlit run NetDNA-1.0.py
 <br/>
 
