@@ -48,5 +48,5 @@ This will open the tool in the browser as a web-based tool!
 
 <img src="https://user-images.githubusercontent.com/74168582/144681902-14c4540e-fada-4b5c-a716-26d06a9d4bf3.png" width="950" height="375">
 
-**Note:** Calculation of Melting Temperature(Tm) is just an example, because Tm is usually calculated for primers (typically 18-30 bp in length) and not the whole DNA sequence as in the below example.
+**Note:** Calculation of Melting Temperature(Tm) is just an example, because Tm is usually calculated for primers (typically 18-30 bp in length) and not the whole DNA sequence as in the above example.
 <br/><br/>
