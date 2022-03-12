@@ -28,7 +28,9 @@ Once streamlit is configured, download the above files and place it in a directo
 <br/>
 
 Go to the above directory and run the script using the command:
-> streamlit run NetDNA-1.0.py
+```console
+streamlit run NetDNA-1.0.py
+```
 <br/>
 
 This will open the tool in the browser as a web-based tool!
